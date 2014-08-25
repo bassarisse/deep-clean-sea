@@ -1,0 +1,102 @@
+{
+  "urls": [
+    "soundsSprite.ogg",
+    "soundsSprite.m4a",
+    "soundsSprite.mp4",
+    "soundsSprite.mp3",
+    "soundsSprite.ac3",
+    "soundsSprite.caf",
+    "soundsSprite.wav"
+  ],
+  "sprite": {
+    "silence": [
+      0,
+      1000,
+      true
+    ],
+    "bgm_end": [
+      5000,
+      3074.5124716553287
+    ],
+    "bgm_level": [
+      13000,
+      30458.775510204076
+    ],
+    "sfx_crate": [
+      48000,
+      399.9999999999986
+    ],
+    "sfx_cursor_back": [
+      53000,
+      408.5714285714275
+    ],
+    "sfx_cursor_click1": [
+      58000,
+      399.9999999999986
+    ],
+    "sfx_cursor_click1_reverse": [
+      63000,
+      399.9999999999986
+    ],
+    "sfx_cursor_click2": [
+      68000,
+      400.0000000000057
+    ],
+    "sfx_cursor_click2_reverse": [
+      73000,
+      400.0000000000057
+    ],
+    "sfx_cursor_move": [
+      78000,
+      400.0000000000057
+    ],
+    "sfx_cursor_select": [
+      83000,
+      400.0000000000057
+    ],
+    "sfx_deposit_close": [
+      88000,
+      400.0000000000057
+    ],
+    "sfx_deposit_open": [
+      93000,
+      400.0000000000057
+    ],
+    "sfx_deposit_warning": [
+      98000,
+      400.0000000000057
+    ],
+    "sfx_dock": [
+      103000,
+      400.0000000000057
+    ],
+    "sfx_engine_boat": [
+      108000,
+      1565.2834467120158
+    ],
+    "sfx_engine_gatherer": [
+      114000,
+      3080.9977324262973
+    ],
+    "sfx_hit_boat": [
+      122000,
+      400.0000000000057
+    ],
+    "sfx_hit_gatherer": [
+      127000,
+      490.1587301587256
+    ],
+    "sfx_resource_deposit": [
+      132000,
+      400.0000000000057
+    ],
+    "sfx_resource_gatherer": [
+      137000,
+      770.249433106585
+    ],
+    "sfx_resource_spawn": [
+      142000,
+      400.0000000000057
+    ]
+  }
+}
